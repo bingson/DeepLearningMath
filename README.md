@@ -31,7 +31,7 @@ By completing this assignment you will
 * recognize that a model without regularization gives you a better accuracy on the training set but nor necessarily on the test set;
 * understand that you could use both dropout and regularization on your model.
 
-3_Gradient_Checking
+## 3_Gradient_Checking
 
 You will be implementing gradient checking to make sure that your backpropagation implementation is correct. By completing this assignment you will
 * implement gradient checking from scratch;
