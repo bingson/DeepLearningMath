@@ -1,1 +1,1 @@
-# DeepLearningMath
+# Deep Learning Mechanics
