@@ -2,9 +2,7 @@
 
 ## 1_L-layer Neural Network
 
-In this assignment you will implement all the building blocks of a 
-neural network and use these building blocks to build a neural network 
-of any architecture.
+In this assignment you will implement all the building blocks necessary for a neural network of any architecture.
 
 ## 2_Initialization_Methods
 
