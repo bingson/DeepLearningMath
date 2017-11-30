@@ -2,7 +2,13 @@
 
 ## 1_L-layer Neural Network
 
-In this assignment you will implement all the building blocks necessary for a neural network of any architecture.
+In this assignment you will implement all the building blocks necessary for a
+neural network of any architecture. By completing this assignment you will
+- develop an intuition of the over all structure of a neural network;
+- write functions (e.g. forward propagation, backward propagation, logistic loss, etc...) that would help you decompose your code and ease the process of building a neural network;
+- initialize/update parameters according to your desired structure.
+- experiment with different model architectures and see how each one behaves;
+
 
 ## 2_Initialization_Methods
 
