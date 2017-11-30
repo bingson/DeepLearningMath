@@ -1,5 +1,5 @@
 # Deep Learning Mechanics
-<img src='images/final_outline2.png' alt='Drawing' style='width: 400pt;'/>
+<img src='images/final_outline.png' alt='Drawing' style='width: 400pt;'/>
 
 ## 1_L-layer Neural Network
 
